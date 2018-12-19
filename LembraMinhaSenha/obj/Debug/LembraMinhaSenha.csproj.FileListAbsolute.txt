@@ -1,0 +1,16 @@
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\bin\Debug\LembraMinhaSenha.exe.config
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\bin\Debug\LembraMinhaSenha.exe
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\bin\Debug\LembraMinhaSenha.pdb
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.csprojAssemblyReference.cache
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.JanelaPrincipal.resources
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.JanelaLogin.resources
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.Properties.Resources.resources
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.csproj.GenerateResource.cache
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.csproj.CoreCompileInputs.cache
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.exe
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.pdb
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\bin\Debug\MySql.Data.dll
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\bin\Debug\Google.Protobuf.dll
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\bin\Debug\MySql.Data.xml
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.csproj.CopyComplete
+C:\Users\nuno\source\repos\LembraMinhaSenha\LembraMinhaSenha\obj\Debug\LembraMinhaSenha.JanelaConfig.resources
