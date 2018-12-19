@@ -92,7 +92,7 @@ namespace LembraMinhaSenha
                 Usuario = new Usuario(TxtNomeUsuario.Text, TxtEmail.Text, TxtSenhaMestre.Text);
                 if (Banco.ExisteUsuario(Usuario))
                 {
-                    LbDica.Text = "O Nome de usuario selecionado já existente.\nEscolha outro nome para seu usuario.";
+                    LbDica.Text = "Nome de usuario selecionado já existente.\nEscolha outro nome para seu usuario.";
                 }
                 else
                 {

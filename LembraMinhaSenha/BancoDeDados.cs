@@ -27,6 +27,7 @@ namespace LembraMinhaSenha
             Desconectar();
         }
 
+        /*
         public void TesteSqliteCadastro(Usuario usuario)
         {
             var desktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
@@ -43,7 +44,7 @@ namespace LembraMinhaSenha
             con.Close();
 
         }
-
+        */
         public void CriarBancoDeDados()
         {
             Conectar();
@@ -75,7 +76,7 @@ namespace LembraMinhaSenha
             Desconectar();
             
         }
-
+        /*
         public void CriarbancoDeDadosSqlite()
         {
             var caminho = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "lms.db");
@@ -102,6 +103,7 @@ namespace LembraMinhaSenha
             conexao.Close();
         }
 
+        */
 
         private void Conectar()
         {
